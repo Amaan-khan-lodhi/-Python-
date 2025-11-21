@@ -19,7 +19,3 @@ elif ope== "/":
     print(div)
 else:
     print("Try Again...")
-
-
-while i <= 5:
-    print(i * i)
